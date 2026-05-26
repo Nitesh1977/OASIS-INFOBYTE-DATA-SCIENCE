@@ -18,7 +18,6 @@ A machine learning project that predicts wine quality based on its chemical prop
 5. **Shows feature importance** — saved as `Importance of wine.png`
 
 ## 🚀 How to Run
-```bash
 # 1. Clone the repo
 git clone https://github.com/your-username/wine-quality-predictor.git
 cd wine-quality-predictor
@@ -28,18 +27,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 # 3. Run the script
 python wine_quality.py
-```
 
 ## 📦 Requirements
-```
+
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-```
-
----
 
 ## 📊 Output
 | Model | Metric |
@@ -61,7 +56,6 @@ Two plots are saved automatically:
 ---
 
 ## 📁 Project Structure
-```
 wine-quality-predictor/
 │
 ├── wine_quality.py        # Main script
@@ -70,7 +64,6 @@ wine-quality-predictor/
 └── outputs/
     ├── Correlation Heatmap.png
     └── Importance of wine.png
-```
 ## 🙌 Contributing
 Pull requests are welcome! Feel free to open an issue if you find a bug or want to suggest an improvement.
 
